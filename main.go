@@ -1,6 +1,6 @@
 package main
 
 func main() {
-	println("hello world")
-
+	var varInt int = 123
+	println(varInt)
 }
